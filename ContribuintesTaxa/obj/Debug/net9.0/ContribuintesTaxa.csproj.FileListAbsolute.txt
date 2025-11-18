@@ -1,0 +1,14 @@
+/home/samv/RiderProjects/ContribuintesTaxa/ContribuintesTaxa/bin/Debug/net9.0/ContribuintesTaxa
+/home/samv/RiderProjects/ContribuintesTaxa/ContribuintesTaxa/bin/Debug/net9.0/ContribuintesTaxa.deps.json
+/home/samv/RiderProjects/ContribuintesTaxa/ContribuintesTaxa/bin/Debug/net9.0/ContribuintesTaxa.runtimeconfig.json
+/home/samv/RiderProjects/ContribuintesTaxa/ContribuintesTaxa/bin/Debug/net9.0/ContribuintesTaxa.dll
+/home/samv/RiderProjects/ContribuintesTaxa/ContribuintesTaxa/bin/Debug/net9.0/ContribuintesTaxa.pdb
+/home/samv/RiderProjects/ContribuintesTaxa/ContribuintesTaxa/obj/Debug/net9.0/ContribuintesTaxa.GeneratedMSBuildEditorConfig.editorconfig
+/home/samv/RiderProjects/ContribuintesTaxa/ContribuintesTaxa/obj/Debug/net9.0/ContribuintesTaxa.AssemblyInfoInputs.cache
+/home/samv/RiderProjects/ContribuintesTaxa/ContribuintesTaxa/obj/Debug/net9.0/ContribuintesTaxa.AssemblyInfo.cs
+/home/samv/RiderProjects/ContribuintesTaxa/ContribuintesTaxa/obj/Debug/net9.0/ContribuintesTaxa.csproj.CoreCompileInputs.cache
+/home/samv/RiderProjects/ContribuintesTaxa/ContribuintesTaxa/obj/Debug/net9.0/ContribuintesTaxa.dll
+/home/samv/RiderProjects/ContribuintesTaxa/ContribuintesTaxa/obj/Debug/net9.0/refint/ContribuintesTaxa.dll
+/home/samv/RiderProjects/ContribuintesTaxa/ContribuintesTaxa/obj/Debug/net9.0/ContribuintesTaxa.pdb
+/home/samv/RiderProjects/ContribuintesTaxa/ContribuintesTaxa/obj/Debug/net9.0/ContribuintesTaxa.genruntimeconfig.cache
+/home/samv/RiderProjects/ContribuintesTaxa/ContribuintesTaxa/obj/Debug/net9.0/ref/ContribuintesTaxa.dll
