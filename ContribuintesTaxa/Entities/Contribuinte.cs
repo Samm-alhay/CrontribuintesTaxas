@@ -1,3 +1,5 @@
+using System.Text;
+
 namespace ContribuintesTaxa.Entities;
 
 public abstract class Contribuinte
@@ -12,4 +14,15 @@ public abstract class Contribuinte
     }
 
     public abstract double CalcImposto();
+
+
+    public override string ToString()
+    {
+        StringBuilder sb = new StringBuilder();
+
+        sb.AppendLine("TAXES PAID:");
+        sb.Append($"{Nome}: $ {CalcImposto()}");
+
+        return sb.ToString();
+    }
 }

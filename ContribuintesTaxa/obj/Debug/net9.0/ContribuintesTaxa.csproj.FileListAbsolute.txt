@@ -12,3 +12,4 @@
 /home/samv/RiderProjects/ContribuintesTaxa/ContribuintesTaxa/obj/Debug/net9.0/ContribuintesTaxa.pdb
 /home/samv/RiderProjects/ContribuintesTaxa/ContribuintesTaxa/obj/Debug/net9.0/ContribuintesTaxa.genruntimeconfig.cache
 /home/samv/RiderProjects/ContribuintesTaxa/ContribuintesTaxa/obj/Debug/net9.0/ref/ContribuintesTaxa.dll
+/home/samv/RiderProjects/ContribuintesTaxa/ContribuintesTaxa/obj/Debug/net9.0/ContribuintesTaxa.sourcelink.json
